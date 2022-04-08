@@ -1,0 +1,63 @@
+body {
+    background-image: url('./img/fundo2.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.zeroavancado {
+    font-size: 40px;
+    
+}
+
+.topo {
+    color: whitesmoke;
+}
+span {
+    font-family: cursive;
+    color: yellow;
+}
+
+.cadastrartitulo {
+    font-size: 35px;
+}
+
+input {
+    display: flex;
+    margin: 20px;
+    font-size: 15px;
+    
+    
+}
+
+
+
+#ocadastro {
+    background-color: aliceblue;
+    width: 250px;
+    height: 280px;
+    border: 3px solid yellow;
+    border-radius: 30px;
+    margin-left: 550px;
+    margin-top: 70px;
+}
+
+
+.rodapé {
+    background-color: yellow;
+    border: 1px solid white;
+    height: 100px;
+    margin-top: 40px;
+}
+
+.s {
+    margin-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
